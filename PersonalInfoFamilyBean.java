@@ -1,10 +1,6 @@
-package com.eastedge.mobilesurvey.bean;
+﻿package com.eastedge.mobilesurvey.bean;
 
-/**
- * 个人家庭信息
- * @author lianghan
- *
- */
+
 public class PersonalInfoFamilyBean {
 	/**姓名*/
 	private String name;

@@ -1,4 +1,4 @@
-package com.eastedge.mobilesurvey.bean;
+﻿package com.eastedge.mobilesurvey.bean;
 
 import java.io.Serializable;
 import java.util.List;
@@ -7,12 +7,7 @@ import android.os.Parcel;
 import android.os.Parcelable;
 import android.os.Parcelable.Creator;
 
-/**
- * 问卷Bean
- * 
- * @author jinchao
- * 
- */
+
 public class SurveyBean implements Serializable {
 	private String endtime;
 	private String starttime;

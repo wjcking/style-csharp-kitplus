@@ -1,10 +1,5 @@
-package com.eastedge.mobilesurvey.bean;
+﻿package com.eastedge.mobilesurvey.bean;
 
-/**
- * 个人信息中，已经做过的调查
- * @author lianghan
- *
- */
 public class PersonalInfoSurveyBean {
 
 	/**名称*/

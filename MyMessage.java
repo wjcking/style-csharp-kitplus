@@ -1,13 +1,5 @@
-package com.eastedge.mobilesurvey.bean;
+﻿package com.eastedge.mobilesurvey.bean;
 
-/**
- * 用户信息 ；
- * 主页上调用 ；
- * 取得用户信息，新消息（未读消息）数，可参与的调查
- * 
- * @author lianghan
- * 
- */
 public class MyMessage {
 
 	/**用户id*/

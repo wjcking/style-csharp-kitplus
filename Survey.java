@@ -1,12 +1,8 @@
-package com.eastedge.mobilesurvey.bean;
+﻿package com.eastedge.mobilesurvey.bean;
 
 import java.io.Serializable;
 
-/***
- * 调查问卷
- * @author lianghan
- *
- */
+
 public class Survey implements Serializable{
 	
 	/** 调查id */

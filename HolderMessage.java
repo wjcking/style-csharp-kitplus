@@ -1,12 +1,7 @@
-package com.eastedge.mobilesurvey.bean;
+﻿package com.eastedge.mobilesurvey.bean;
 
 import java.util.List;
 
-/***
- * 调查问卷所有信息，包括问卷，家庭成员，已经参与过的调查
- * @author lianghan
- *
- */
 public class HolderMessage {
 	/** 用户id */
 	public String holerId;

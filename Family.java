@@ -1,12 +1,8 @@
-package com.eastedge.mobilesurvey.bean;
+﻿package com.eastedge.mobilesurvey.bean;
 
 import java.io.Serializable;
 
-/**
- * 家庭信息
- * @author lianghan
- *
- */
+
 public class Family implements Serializable{
 
 	/**家庭成员姓名*/

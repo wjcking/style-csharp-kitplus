@@ -1,4 +1,4 @@
-package com.eastedge.mobilesurvey.bean;
+﻿package com.eastedge.mobilesurvey.bean;
 
 import java.io.Serializable;
 
@@ -6,11 +6,8 @@ import java.io.Serializable;
 import android.os.Parcel;
 import android.os.Parcelable;
 import android.os.Parcelable.Creator;
-/**
- * 问卷Bean
- * @author jinchao
- *
- */
+
+
 public class ProblemBean implements Parcelable{
 
 	private int id;

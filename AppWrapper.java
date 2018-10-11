@@ -1,10 +1,5 @@
-package com.eastedge.mobilesurvey.bean;
+﻿package com.eastedge.mobilesurvey.bean;
 
-/**
- * 程序更新信息
- * @author lianghan
- *
- */
 public class AppWrapper {
 	/** 应用更新地址 */
 	public String url;
